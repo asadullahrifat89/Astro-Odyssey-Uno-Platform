@@ -1,0 +1,203 @@
+{
+  "vfs_prefix": "managed",
+  "assembly_root": "managed",
+  "enable_debugging": 0,
+  "assets": [
+    {
+      "name": "Uno.Wasm.TimezoneData.dll",
+      "behavior": "assembly"
+    },
+    {
+      "name": "netstandard.dll",
+      "behavior": "assembly"
+    },
+    {
+      "name": "System.Runtime.dll",
+      "behavior": "assembly"
+    },
+    {
+      "name": "System.Private.CoreLib.dll",
+      "behavior": "assembly"
+    },
+    {
+      "name": "System.Private.Uri.dll",
+      "behavior": "assembly"
+    },
+    {
+      "name": "System.Runtime.InteropServices.dll",
+      "behavior": "assembly"
+    },
+    {
+      "name": "System.ComponentModel.Primitives.dll",
+      "behavior": "assembly"
+    },
+    {
+      "name": "System.Threading.dll",
+      "behavior": "assembly"
+    },
+    {
+      "name": "System.ComponentModel.dll",
+      "behavior": "assembly"
+    },
+    {
+      "name": "System.Collections.NonGeneric.dll",
+      "behavior": "assembly"
+    },
+    {
+      "name": "System.ObjectModel.dll",
+      "behavior": "assembly"
+    },
+    {
+      "name": "System.Collections.dll",
+      "behavior": "assembly"
+    },
+    {
+      "name": "System.Collections.Specialized.dll",
+      "behavior": "assembly"
+    },
+    {
+      "name": "System.Memory.dll",
+      "behavior": "assembly"
+    },
+    {
+      "name": "System.Collections.Concurrent.dll",
+      "behavior": "assembly"
+    },
+    {
+      "name": "System.Net.Primitives.dll",
+      "behavior": "assembly"
+    },
+    {
+      "name": "System.ComponentModel.TypeConverter.dll",
+      "behavior": "assembly"
+    },
+    {
+      "name": "System.Text.RegularExpressions.dll",
+      "behavior": "assembly"
+    },
+    {
+      "name": "System.Net.Security.dll",
+      "behavior": "assembly"
+    },
+    {
+      "name": "System.Drawing.Primitives.dll",
+      "behavior": "assembly"
+    },
+    {
+      "name": "System.Linq.dll",
+      "behavior": "assembly"
+    },
+    {
+      "name": "System.Runtime.Serialization.Formatters.dll",
+      "behavior": "assembly"
+    },
+    {
+      "name": "System.Private.Xml.Linq.dll",
+      "behavior": "assembly"
+    },
+    {
+      "name": "System.Private.Xml.dll",
+      "behavior": "assembly"
+    },
+    {
+      "name": "System.Net.Http.dll",
+      "behavior": "assembly"
+    },
+    {
+      "name": "System.Diagnostics.DiagnosticSource.dll",
+      "behavior": "assembly"
+    },
+    {
+      "name": "System.Private.Runtime.InteropServices.JavaScript.dll",
+      "behavior": "assembly"
+    },
+    {
+      "name": "System.Linq.Expressions.dll",
+      "behavior": "assembly"
+    },
+    {
+      "name": "System.Console.dll",
+      "behavior": "assembly"
+    },
+    {
+      "name": "System.Collections.Immutable.dll",
+      "behavior": "assembly"
+    },
+    {
+      "name": "System.Linq.Queryable.dll",
+      "behavior": "assembly"
+    },
+    {
+      "name": "System.Runtime.Serialization.Primitives.dll",
+      "behavior": "assembly"
+    },
+    {
+      "name": "System.Private.DataContractSerialization.dll",
+      "behavior": "assembly"
+    },
+    {
+      "name": "System.Threading.Tasks.Parallel.dll",
+      "behavior": "assembly"
+    },
+    {
+      "name": "System.Web.HttpUtility.dll",
+      "behavior": "assembly"
+    },
+    {
+      "name": "AstroOdyssey.Wasm.dll",
+      "behavior": "assembly"
+    },
+    {
+      "name": "Uno.UI.Runtime.WebAssembly.dll",
+      "behavior": "assembly"
+    },
+    {
+      "name": "Uno.UI.dll",
+      "behavior": "assembly"
+    },
+    {
+      "name": "Uno.Xaml.dll",
+      "behavior": "assembly"
+    },
+    {
+      "name": "Uno.dll",
+      "behavior": "assembly"
+    },
+    {
+      "name": "Uno.Foundation.dll",
+      "behavior": "assembly"
+    },
+    {
+      "name": "Uno.Foundation.Logging.dll",
+      "behavior": "assembly"
+    },
+    {
+      "name": "Uno.Foundation.Runtime.WebAssembly.dll",
+      "behavior": "assembly"
+    },
+    {
+      "name": "Uno.Diagnostics.Eventing.dll",
+      "behavior": "assembly"
+    },
+    {
+      "name": "Uno.UI.Dispatching.dll",
+      "behavior": "assembly"
+    },
+    {
+      "name": "Uno.UI.Composition.dll",
+      "behavior": "assembly"
+    },
+    {
+      "name": "Uno.UI.FluentTheme.v2.dll",
+      "behavior": "assembly"
+    },
+    {
+      "name": "Uno.UI.Toolkit.dll",
+      "behavior": "assembly"
+    },
+    {
+      "name": "icudt.dat",
+      "behavior": "icu"
+    }
+  ]
+}
